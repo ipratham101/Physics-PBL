@@ -1,0 +1,123 @@
+.pbl{
+    font-size: 50px;
+    padding-left: 600px;
+}
+
+.p1{
+    font-size: 40px;
+    padding-left: 100px;
+    padding-right: 50px;
+}
+body{
+    background: rgb(152,211,217);
+    background: linear-gradient(90deg, rgba(152,211,217,1) 0%, rgba(253,29,29,0.23322832550989148) 67%, rgba(252,176,69,1) 100%);
+    background-repeat: no-repeat;
+    background-size: 2000px;
+   
+}
+.p2{
+    font-size: 40px;
+    padding-left: 100px;
+}
+#ans{
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+}
+#n1{
+    height: 30px;
+    width: 200px;
+}
+#n2{
+    height: 30px;
+    width: 200px;
+}
+#a1{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    border: 4px solid black;
+    display: inline-block;
+    height: 70px;
+    width: 400px;
+    margin-right: 5px;
+   margin-left: 50px;
+}
+.h1{
+    font-size: 50px;
+    margin-left: 300px;
+    font-family: 'Grape Nuts', cursive;
+font-family: 'Patrick Hand', cursive;
+font-family: 'Shadows Into Light', cursive;
+display: inline-block;
+}
+.a4{
+
+    font-size: 40px;
+    font-family: 'Patrick Hand', cursive;
+margin-left: 100px;
+border: 5px solid black;
+padding-left: 10px;
+border-radius: 10px;
+
+}
+.img1{
+    width: 400px;
+    margin-left: 100px;
+   
+}
+.div1{
+    padding-left: 1000px;
+    padding-bottom: 200px;
+}
+.content{
+    padding-top: 0px;
+    display: inline-block;
+    margin-left: 500px;
+border: 5px solid black;
+background-color: rgba(239, 235, 235, 0.489);
+border-radius: 15px;
+
+}
+.heading{
+    font-size: 40px;
+    display: inline-block;
+    margin-left: 450px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 5px solid black;
+  padding: 15px;
+}
+.input1{
+    margin-left: 100px;
+    border: 5px solid black;
+}
+.input2{
+    margin-left: 100px;
+    border: 5px solid black;
+}
+.name{
+    border: 2px solid black;
+    display: inline-block;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn{
+    margin-left: 140px;
+}
+.h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+.formula{
+    padding-left: 105px;
+    height: 70px;
+}
+.name1{
+text-align: center;
+    font-size: 40px;
+}
+.name2{
+    display: inline-block;
+    font-size: 30px;
+}
