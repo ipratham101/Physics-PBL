@@ -9,8 +9,7 @@
     padding-right: 50px;
 }
 body{
-    background: rgb(152,211,217);
-    background: linear-gradient(90deg, rgba(152,211,217,1) 0%, rgba(253,29,29,0.23322832550989148) 67%, rgba(252,176,69,1) 100%);
+    background-image: linear-gradient(to right, #ff6e7f, #bfe9ff);
     background-repeat: no-repeat;
     background-size: 2000px;
    
@@ -50,7 +49,10 @@ body{
 font-family: 'Patrick Hand', cursive;
 font-family: 'Shadows Into Light', cursive;
 display: inline-block;
+
 }
+
+
 .a4{
 
     font-size: 40px;
